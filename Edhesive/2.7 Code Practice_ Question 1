@@ -1,0 +1,7 @@
+num1 = input("Enter a number:")
+num2 = input("Enter a number:")
+num3 = input("Enter a number:")
+sum1 = int(num1) * (1)
+sum2 = int(num2) * (1)
+sum3 = int(num3) * (1)
+print (("Largest: ") + str(max(sum1,sum2,sum3)))

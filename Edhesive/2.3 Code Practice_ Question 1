@@ -1,0 +1,7 @@
+num1 = input("Enter your numerator: ")
+num2 = input("Enter your denominator: ")
+sum = int(num1) / int(num2)
+sum2 = int(sum)
+print (sum2)
+sum3 = int(num1) % int(num2)
+print (sum3)

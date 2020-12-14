@@ -1,0 +1,4 @@
+import math
+num = input("Enter a number: ")
+sum = math.fabs (int(num))
+print (math.sqrt(int(sum)))

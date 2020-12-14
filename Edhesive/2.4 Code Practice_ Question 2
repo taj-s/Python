@@ -1,0 +1,4 @@
+num = input("Enter a number: ")
+sum1 = float(num)
+sum2 = (sum1) - int(sum1)
+print (sum2)

@@ -1,0 +1,7 @@
+num = input("Enter an integer: ")
+sum = int(num) + int(1)
+print (sum)
+sum2 = int(num) + int(2)
+print (sum2)
+sum3 = int(num) + int(3)
+print (sum3)
